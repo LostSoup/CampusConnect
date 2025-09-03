@@ -1,6 +1,10 @@
 # CampusConnect
 This project is our first stab at software engineering. We are to build a web portal for a school to manage assignments, view announcements, interact with a simple forum, etc.
 
+## Dependencies:
+Django
+mysql-connector-python (assumes a database called 'campusconnect' already exists)
+
 ### Initial Planning 
 #### Tech
 Front end - Learn React
